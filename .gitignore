@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Original files (keep enhanced versions)
+NFL.json
+NBA.json
+MLB.json
+
+# Scripts (optional - can include or exclude)
+# enhance_*.py
+# fix_and_enhance.py
+
